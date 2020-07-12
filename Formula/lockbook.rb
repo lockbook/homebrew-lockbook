@@ -1,8 +1,8 @@
 class Lockbook < Formula
   desc "Beautiful. Secure. Private. Everywhere."
   homepage "https://github.com/lockbook/lockbook"
-  url "https://github.com/lockbook/lockbook/releases/download/0.2.4/macos-cli.tar.gz"
-  sha256 "7fdaf17682f15ce326cfd2ad928625e0944de934be1c58e78b0e2d769d44e92b"
+  url "https://github.com/lockbook/lockbook/releases/download/0.2.5/macos-cli.tar.gz"
+  sha256 "4153e7f46210b561ae250165a61a1e59b984ba47bb7ea9639522544b119b091f"
   version "0.2.4"
 
   def install
