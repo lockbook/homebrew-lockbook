@@ -1,9 +1,10 @@
+
 class Lockbook < Formula
-  desc "Beautiful. Secure. Private. Everywhere."
+  desc "The best place to store and share thoughts."
   homepage "https://github.com/lockbook/lockbook"
-  url "https://github.com/lockbook/lockbook/releases/download/0.4.3/lockbook-cli-macos.tar.gz"
-  sha256 "e120f64abc86164f50bc4ba17d05cff740ab2a0eceb435692f920b63b3223ea9"
-  version "0.4.3"
+  url "https://github.com/lockbook/lockbook/releases/download/0.5.1/lockbook-cli-macos.tar.gz"
+  sha256 "c1e55376bd05fd1d3cf1ba2ca8b5605b7b38dcbc3a96ac65d04faad28b16d949"
+  version "0.5.1"
 
   def install
     bin.install "lockbook"
