@@ -2,9 +2,9 @@
 class Lockbook < Formula
   desc "The private, polished note-taking platform."
   homepage "https://github.com/lockbook/lockbook"
-  url "https://github.com/lockbook/lockbook/releases/download/26.7.16/lockbook-cli-macos.tar.gz"
-  sha256 "d505a696d833341873de0d9ecc0e1ca766af278d6ed3a446948457447e346769"
-  version "26.7.16"
+  url "https://github.com/lockbook/lockbook/releases/download/26.7.23/lockbook-cli-macos.tar.gz"
+  sha256 "2c2d5b42d38c20c82ec14925e63d2b68894c87610acfa9fccb84969dbd9c8158"
+  version "26.7.23"
 
   def install
     bin.install "lockbook"
